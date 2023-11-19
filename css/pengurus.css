@@ -1,0 +1,594 @@
+.detail-kelas {
+    background-color: #f5f5f5;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .detail-kelas .div {
+    background-color: #ffffff;
+    width: 1513px;
+    height: 2043px;
+    position: relative;
+  }
+  
+  .detail-kelas .overlap {
+    position: absolute;
+    width: 1217px;
+    height: 207px;
+    top: 270px;
+    left: 150px;
+    background-color: #b88be5bf;
+    border-radius: 30px;
+    box-shadow: 0px 4px 50px #00000040;
+  }
+  
+  .detail-kelas .text-wrapper {
+    position: absolute;
+    top: 37px;
+    left: 80px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .detail-kelas .p {
+    position: absolute;
+    top: 103px;
+    left: 80px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .detail-kelas .rectangle {
+    position: absolute;
+    width: 203px;
+    height: 78px;
+    top: -2568px;
+    left: 151px;
+    background-color: #b1b1b1;
+    border-radius: 30px;
+    box-shadow: 0px 4px 50px #00000040;
+  }
+  
+  .detail-kelas .rectangle-2 {
+    position: absolute;
+    width: 327px;
+    height: 78px;
+    top: -2568px;
+    left: 402px;
+    background-color: #ffffff;
+    border-radius: 30px;
+    box-shadow: 0px 4px 50px #00000040;
+  }
+  
+  .detail-kelas .rectangle-3 {
+    position: absolute;
+    width: 278px;
+    height: 62px;
+    top: -2689px;
+    left: 1007px;
+    background-color: #ffffff;
+    border-radius: 50px;
+    border: 1px solid;
+    border-color: #000000;
+  }
+  
+  .detail-kelas .rectangle-4 {
+    position: absolute;
+    width: 1217px;
+    height: 207px;
+    top: -3049px;
+    left: 105px;
+    background-color: #ffffff;
+    border-radius: 30px;
+    box-shadow: 0px 4px 50px #00000040;
+  }
+  
+  .detail-kelas .overlap-group {
+    position: absolute;
+    width: 1337px;
+    height: 152px;
+    top: 32px;
+    left: 90px;
+    background-color: #b88be5;
+    border-radius: 30px;
+    box-shadow: 0px 4px 50px #00000040;
+  }
+  
+  .detail-kelas .text-wrapper-2 {
+    position: absolute;
+    top: 36px;
+    left: 522px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 64px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .detail-kelas .lets-icons-back {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 46px;
+    left: 37px;
+  }
+  
+  .detail-kelas .overlap-group-2 {
+    position: absolute;
+    width: 1219px;
+    height: 1279px;
+    top: 593px;
+    left: 150px;
+  }
+  
+  .detail-kelas .group {
+    position: absolute;
+    width: 1218px;
+    height: 1279px;
+    top: 0;
+    left: 1px;
+    background-color: #ffffff;
+    border-radius: 30px;
+    box-shadow: 0px 4px 50px #00000040;
+  }
+  
+  .detail-kelas .rectangle-5 {
+    position: absolute;
+    width: 203px;
+    height: 78px;
+    top: 146px;
+    left: 41px;
+    background-color: #ffffff;
+    border-radius: 30px;
+    box-shadow: 0px 4px 50px #00000040;
+  }
+  
+  .detail-kelas .rectangle-6 {
+    position: absolute;
+    width: 327px;
+    height: 78px;
+    top: 146px;
+    left: 292px;
+    background-color: #b1b1b1;
+    border-radius: 30px;
+    box-shadow: 0px 4px 50px #00000040;
+  }
+  
+  .detail-kelas .rectangle-7 {
+    position: absolute;
+    width: 278px;
+    height: 62px;
+    top: 25px;
+    left: 892px;
+    background-color: #ffffff;
+    border-radius: 50px;
+    border: 1px solid;
+    border-color: #000000;
+  }
+  
+  .detail-kelas .text-wrapper-3 {
+    position: absolute;
+    top: 25px;
+    left: 57px;
+    font-family: "Montserrat-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .detail-kelas .text-wrapper-4 {
+    position: absolute;
+    top: 40px;
+    left: 925px;
+    opacity: 0.5;
+    font-family: "Montserrat-ExtraBold", Helvetica;
+    font-weight: 800;
+    color: #696969;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .detail-kelas .text-wrapper-5 {
+    position: absolute;
+    top: 162px;
+    left: 91px;
+    font-family: "Montserrat-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .detail-kelas .text-wrapper-6 {
+    position: absolute;
+    top: 339px;
+    left: 154px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .detail-kelas .text-wrapper-7 {
+    position: absolute;
+    top: 386px;
+    left: 164px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .detail-kelas .text-wrapper-8 {
+    position: absolute;
+    top: 495px;
+    left: 164px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .detail-kelas .text-wrapper-9 {
+    position: absolute;
+    top: 597px;
+    left: 164px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .detail-kelas .text-wrapper-10 {
+    position: absolute;
+    top: 707px;
+    left: 164px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .detail-kelas .text-wrapper-11 {
+    position: absolute;
+    top: 809px;
+    left: 164px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .detail-kelas .text-wrapper-12 {
+    position: absolute;
+    top: 904px;
+    left: 164px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .detail-kelas .text-wrapper-13 {
+    position: absolute;
+    top: 1001px;
+    left: 165px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .detail-kelas .text-wrapper-14 {
+    position: absolute;
+    top: 448px;
+    left: 154px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .detail-kelas .text-wrapper-15 {
+    position: absolute;
+    top: 550px;
+    left: 154px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .detail-kelas .text-wrapper-16 {
+    position: absolute;
+    top: 660px;
+    left: 154px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .detail-kelas .text-wrapper-17 {
+    position: absolute;
+    top: 765px;
+    left: 154px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .detail-kelas .text-wrapper-18 {
+    position: absolute;
+    top: 860px;
+    left: 154px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .detail-kelas .text-wrapper-19 {
+    position: absolute;
+    top: 957px;
+    left: 154px;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .detail-kelas .text-wrapper-20 {
+    position: absolute;
+    top: 162px;
+    left: 313px;
+    font-family: "Montserrat-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .detail-kelas .line {
+    width: 1219px;
+    height: 3px;
+    top: 118px;
+    left: 0;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .detail-kelas .ellipse {
+    width: 75px;
+    height: 75px;
+    top: 341px;
+    left: 57px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .detail-kelas .img {
+    width: 75px;
+    height: 75px;
+    top: 446px;
+    left: 57px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .detail-kelas .ellipse-2 {
+    width: 75px;
+    height: 75px;
+    top: 555px;
+    left: 57px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .detail-kelas .ellipse-3 {
+    width: 75px;
+    height: 75px;
+    top: 661px;
+    left: 57px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .detail-kelas .ellipse-4 {
+    width: 75px;
+    height: 75px;
+    top: 764px;
+    left: 58px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .detail-kelas .ellipse-5 {
+    width: 75px;
+    height: 75px;
+    top: 863px;
+    left: 57px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .detail-kelas .ellipse-6 {
+    width: 75px;
+    height: 75px;
+    top: 956px;
+    left: 58px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .detail-kelas .ellipse-7 {
+    width: 75px;
+    height: 75px;
+    top: 955px;
+    left: 1033px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .detail-kelas .ellipse-8 {
+    width: 75px;
+    height: 75px;
+    top: 867px;
+    left: 1033px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .detail-kelas .ellipse-9 {
+    width: 75px;
+    height: 75px;
+    top: 772px;
+    left: 1033px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .detail-kelas .ellipse-10 {
+    width: 75px;
+    height: 75px;
+    top: 661px;
+    left: 1033px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .detail-kelas .ellipse-11 {
+    width: 75px;
+    height: 75px;
+    top: 555px;
+    left: 1033px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .detail-kelas .ellipse-12 {
+    width: 75px;
+    height: 75px;
+    top: 446px;
+    left: 1033px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .detail-kelas .ellipse-13 {
+    width: 75px;
+    height: 75px;
+    top: 335px;
+    left: 1033px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .detail-kelas .ellipse-14 {
+    width: 33px;
+    height: 33px;
+    top: 39px;
+    left: 1135px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .detail-kelas .line-2 {
+    width: 1035px;
+    height: 1px;
+    top: 432px;
+    left: 57px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .detail-kelas .line-3 {
+    width: 1035px;
+    height: 1px;
+    top: 542px;
+    left: 57px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .detail-kelas .line-4 {
+    width: 1035px;
+    height: 1px;
+    top: 649px;
+    left: 58px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .detail-kelas .line-5 {
+    width: 1035px;
+    height: 1px;
+    top: 758px;
+    left: 57px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .detail-kelas .line-6 {
+    width: 1035px;
+    height: 1px;
+    top: 849px;
+    left: 58px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .detail-kelas .line-7 {
+    width: 1035px;
+    height: 1px;
+    top: 950px;
+    left: 57px;
+    position: absolute;
+    object-fit: cover;
+  }
+  

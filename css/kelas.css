@@ -1,0 +1,724 @@
+.tugas {
+    background-color: #f5f5f5;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .tugas .div {
+    background-color: #ffffff;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+  }
+  
+  .tugas .group {
+    position: absolute;
+    width: 1129px;
+    height: 761px;
+    top: 36px;
+    left: 326px;
+  }
+  
+  .tugas .overlap {
+    position: absolute;
+    width: 384px;
+    height: 752px;
+    top: 0px;
+    left: 725px;
+    border-radius: 30px;
+  }
+  
+  .tugas .rectangle {
+    position: absolute;
+    width: 384px;
+    height: 91px;
+    top: 0px;
+    left: 0;
+    background-color: #d9d9d9;
+    border-radius: 30px 30px 0px 0px;
+  }
+  
+  .tugas .rectangle-2 {
+    position: absolute;
+    width: 384px;
+    height: 685px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff80;
+    border-radius: 30px;
+    box-shadow: 0px 4px 4px #00000040;
+  }
+  
+  .tugas .rectangle-3 {
+    position: absolute;
+    width: 310px;
+    height: 54px;
+    top: 110px;
+    left: 43px;
+    background-color: #fd8b8b;
+    border-radius: 30px;
+  }
+  
+  .tugas .rectangle-4 {
+    position: absolute;
+    width: 310px;
+    height: 54px;
+    top: 170px;
+    left: 44px;
+    background-color: #fd8b8b;
+    border-radius: 30px;
+  }
+  
+  .tugas .rectangle-5 {
+    position: absolute;
+    width: 310px;
+    height: 54px;
+    top: 290px;
+    left: 44px;
+    background-color: #fc8a8a;
+    border-radius: 30px;
+  }
+  
+  .tugas .rectangle-6 {
+    position: absolute;
+    width: 310px;
+    height: 54px;
+    top: 352px;
+    left: 44px;
+    background-color: #a8f1b0;
+    border-radius: 30px;
+  }
+  
+  .tugas .rectangle-7 {
+    position: absolute;
+    width: 310px;
+    height: 54px;
+    top: 412px;
+    left: 44px;
+    background-color: #a8f1b0;
+    border-radius: 30px;
+  }
+  
+  .tugas .rectangle-8 {
+    position: absolute;
+    width: 310px;
+    height: 54px;
+    top: 472px;
+    left: 44px;
+    background-color: #a8f1b0;
+    border-radius: 30px;
+  }
+  
+  .tugas .rectangle-9 {
+    position: absolute;
+    width: 310px;
+    height: 54px;
+    top: 532px;
+    left: 44px;
+    background-color: #a8f1b0;
+    border-radius: 30px;
+  }
+  
+  .tugas .rectangle-10 {
+    position: absolute;
+    width: 310px;
+    height: 54px;
+    top: 592px;
+    left: 44px;
+    background-color: #a8f0af;
+    border-radius: 30px;
+  }
+  
+  .tugas .rectangle-11 {
+    position: absolute;
+    width: 310px;
+    height: 54px;
+    top: 230px;
+    left: 43px;
+    background-color: #fd8b8b;
+    border-radius: 30px;
+  }
+  
+  .tugas .text-wrapper {
+    width: 209px;
+    top: 100px;
+    left: 94px;
+    position: absolute;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .tugas .p {
+    position: absolute;
+    width: 209px;
+    top: 220px;
+    left: 91px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .tugas .text-wrapper-2 {
+    width: 202px;
+    top: 345px;
+    position: absolute;
+    left: 94px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .tugas .text-wrapper-3 {
+    width: 212px;
+    top: 401px;
+    left: 89px;
+    position: absolute;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .tugas .text-wrapper-4 {
+    top: 463px;
+    left: 90px;
+    position: absolute;
+    width: 222px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .tugas .text-wrapper-5 {
+    position: absolute;
+    width: 212px;
+    top: 520px;
+    left: 92px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .tugas .text-wrapper-6 {
+    position: absolute;
+    width: 215px;
+    top: 578px;
+    left: 88px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .tugas .text-wrapper-7 {
+    width: 206px;
+    top: 160px;
+    position: absolute;
+    left: 94px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .tugas .text-wrapper-8 {
+    top: 280px;
+    left: 85px;
+    position: absolute;
+    width: 222px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .tugas .informasi-tugas-yang {
+    position: absolute;
+    width: 187px;
+    top: 15px;
+    left: 104px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .tugas .overlap-group {
+    position: absolute;
+    width: 320px;
+    height: 202px;
+    top: 96px;
+    left: 0;
+  }
+  
+  .tugas .overlap-group-wrapper {
+    position: absolute;
+    width: 320px;
+    height: 202px;
+    top: 0;
+    left: 0;
+  }
+  
+  .tugas .overlap-group-2 {
+    position: relative;
+    width: 314px;
+    height: 202px;
+  }
+  
+  .tugas .rectangle-12 {
+    position: absolute;
+    width: 293px;
+    height: 202px;
+    top: 0;
+    left: 21px;
+    background-color: #ffffff45;
+    border-radius: 30px;
+    box-shadow: 0px 4px 4px #00000040, inset 0px 4px 4px #00000040;
+  }
+  
+  .tugas .rectangle-13 {
+    position: absolute;
+    width: 293px;
+    height: 71px;
+    top: 1px;
+    left: 21px;
+    background-color: #b88be5;
+    border-radius: 30px 30px 0px 0px;
+  }
+  
+  .tugas .text-wrapper-9 {
+    position: absolute;
+    width: 187px;
+    top: 22px;
+    left: 42px;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .tugas .rectangle-14 {
+    position: absolute;
+    width: 85px;
+    height: 23px;
+    top: 163px;
+    left: 46px;
+    background-color: #d9d9d9;
+    border-radius: 15px;
+  }
+  
+  .tugas .text-wrapper-10 {
+    position: absolute;
+    width: 55px;
+    top: 170px;
+    left: 60px;
+    font-family: "Roboto-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000cc;
+    font-size: 11px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .tugas .text-wrapper-11 {
+    position: absolute;
+    width: 222px;
+    top: 43px;
+    left: 0;
+    font-family: "Roboto-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000b2;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .tugas .fe-warning {
+    position: absolute;
+    width: 21px;
+    height: 18px;
+    top: 20px;
+    left: 276px;
+  }
+  
+  .tugas .overlap-2 {
+    position: absolute;
+    width: 318px;
+    height: 202px;
+    top: 96px;
+    left: 347px;
+  }
+  
+  .tugas .overlap-wrapper {
+    position: absolute;
+    width: 318px;
+    height: 202px;
+    top: 0;
+    left: 0;
+  }
+  
+  .tugas .overlap-3 {
+    position: relative;
+    width: 312px;
+    height: 202px;
+  }
+  
+  .tugas .rectangle-15 {
+    position: absolute;
+    width: 293px;
+    height: 202px;
+    top: 0;
+    left: 19px;
+    background-color: #ffffff45;
+    border-radius: 30px;
+    box-shadow: 0px 4px 4px #00000040, inset 0px 4px 4px #00000040;
+  }
+  
+  .tugas .rectangle-16 {
+    position: absolute;
+    width: 291px;
+    height: 71px;
+    top: 1px;
+    left: 20px;
+    background-color: #b88be5;
+    border-radius: 30px 30px 0px 0px;
+  }
+  
+  .tugas .text-wrapper-12 {
+    position: absolute;
+    width: 198px;
+    top: 20px;
+    left: 42px;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .tugas .rectangle-17 {
+    position: absolute;
+    width: 85px;
+    height: 23px;
+    top: 163px;
+    left: 42px;
+    background-color: #d9d9d9;
+    border-radius: 15px;
+  }
+  
+  .tugas .text-wrapper-13 {
+    left: 65px;
+    position: absolute;
+    width: 55px;
+    top: 170px;
+    font-family: "Roboto-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000cc;
+    font-size: 11px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .tugas .overlap-4 {
+    position: absolute;
+    width: 314px;
+    height: 202px;
+    top: 337px;
+    left: 347px;
+  }
+  
+  .tugas .group-wrapper {
+    position: absolute;
+    width: 314px;
+    height: 202px;
+    top: 0;
+    left: 0;
+  }
+  
+  .tugas .div-wrapper {
+    width: 320px;
+    height: 202px;
+  }
+  
+  .tugas .text-wrapper-14 {
+    position: absolute;
+    width: 155px;
+    top: 23px;
+    left: 42px;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .tugas .rectangle-18 {
+    position: absolute;
+    width: 85px;
+    height: 23px;
+    top: 163px;
+    left: 54px;
+    background-color: #d9d9d9;
+    border-radius: 15px;
+  }
+  
+  .tugas .text-wrapper-15 {
+    left: 68px;
+    position: absolute;
+    width: 55px;
+    top: 170px;
+    font-family: "Roboto-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000cc;
+    font-size: 11px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .tugas .img {
+    top: 21px;
+    position: absolute;
+    width: 21px;
+    height: 18px;
+    left: 276px;
+  }
+  
+  .tugas .overlap-5 {
+    position: absolute;
+    width: 314px;
+    height: 202px;
+    top: 336px;
+    left: 0;
+  }
+  
+  .tugas .text-wrapper-16 {
+    position: absolute;
+    width: 190px;
+    top: 22px;
+    left: 40px;
+    font-family: "Roboto-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .tugas .fe-warning-2 {
+    top: 17px;
+    position: absolute;
+    width: 21px;
+    height: 18px;
+    left: 276px;
+  }
+  
+  .tugas .group-2 {
+    position: absolute;
+    width: 621px;
+    height: 70px;
+    top: 0;
+    left: 17px;
+  }
+  
+  .tugas .kelas-wrapper {
+    position: relative;
+    width: 619px;
+    height: 70px;
+    background-color: #b88be5bf;
+    border-radius: 30px;
+    box-shadow: 0px 4px 4px #00000040, inset 0px 4px 4px #00000040;
+  }
+  
+  .tugas .kelas {
+    width: 177px;
+    top: 23px;
+    left: 93px;
+    font-size: 24px;
+    white-space: nowrap;
+    position: absolute;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .tugas .group-3 {
+    position: absolute;
+    width: 279px;
+    height: 782px;
+    top: 36px;
+    left: 34px;
+  }
+  
+  .tugas .overlap-6 {
+    position: relative;
+    bottom: 15px;
+    width: 269px;
+    height: 700px;
+    border-radius: 30px;
+    box-shadow: 0px 4px 50px #00000040;
+    background: linear-gradient(
+      180deg,
+      rgb(126, 87, 194) 0%,
+      rgba(112.37, 77.98, 172.34, 0.49) 99.99%,
+      rgba(126, 87, 194, 0) 100%
+    );
+  }
+  
+  .tugas .ellipse {
+    position: absolute;
+    width: 53px;
+    height: 52px;
+    top: 16px;
+    left: 13px;
+    object-fit: cover;
+  }
+  
+  .tugas .text-wrapper-17 {
+    position: absolute;
+    width: 99px;
+    top: 33px;
+    left: 81px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .tugas .overlap-group-3 {
+    position: absolute;
+    width: 232px;
+    height: 54px;
+    top: 205px;
+    left: 13px;
+    background-color: #ffffff;
+    border-radius: 30px;
+  }
+  
+  .tugas .text-wrapper-18 {
+    width: 61px;
+    top: 15px;
+    left: 85px;
+    font-size: 20px;
+    position: absolute;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .tugas .text-wrapper-19 {
+    position: absolute;
+    width: 127px;
+    top: 141px;
+    left: 66px;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .tugas .text-wrapper-20 {
+    position: absolute;
+    width: 157px;
+    top: 278px;
+    left: 57px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .tugas .text-wrapper-21 {
+    position: absolute;
+    width: 117px;
+    top: 340px;
+    left: 71px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .tugas .vector {
+    position: absolute;
+    width: 14px;
+    height: 9px;
+    top: 44px;
+    left: 202px;
+  }
+  
+  .tugas .pindah {
+    text-decoration: none;
+    color: #000000;
+  }

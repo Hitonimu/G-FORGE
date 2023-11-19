@@ -1,0 +1,234 @@
+.pilih-akun {
+    background-color: #f5f5f5;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    position: fixed;
+  }
+  
+  .pilih-akun .overlap-group-wrapper {
+    background-color: #f5f5f5;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .pilih-akun .overlap-group {
+    position: relative;
+    width: 1337px;
+    height: 660px;
+    top: 32px;
+    left: 88px;
+    background-color: #f9f9f945;
+    border-radius: 30px;
+    box-shadow: 0px 4px 50px #00000040;
+  }
+  
+  .pilih-akun .overlap {
+    position: absolute;
+    width: 821px;
+    height: 572px;
+    top: 175px;
+    left: 393px;
+  }
+  
+  .pilih-akun .div {
+    position: absolute;
+    width: 821px;
+    height: 561px;
+    top: 0;
+    left: 0;
+  }
+  
+  .pilih-akun .overlap-2 {
+    position: absolute;
+    width: 550px;
+    height: 365px;
+    top: 0;
+    left: 0;
+  }
+  
+  .pilih-akun .text-wrapper {
+    position: absolute;
+    width: 256px;
+    top: 270px;
+    left: 170px;
+    font-family: "DM Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000b2;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .pilih-akun .webinar-pana {
+    position: fixed;
+    width: 500px;
+    height: 344px;
+    top: 175px;
+    left: 520px;
+  }
+  
+  .pilih-akun .overlap-3 {
+    position: absolute;
+    width: 260px;
+    height: 167px;
+    top: 280px;
+    left: 529px;
+    background-color: #ffffff80;
+    border-radius: 90px;
+  }
+  
+  .pilih-akun .text-wrapper-2 {
+    position: absolute;
+    top: 134px;
+    left: 72px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .pilih-akun .image {
+    position: absolute;
+    width: 100px;
+    height: 67px;
+    top: 46px;
+    left: 80px;
+    object-fit: cover;
+  }
+  
+  .pilih-akun .overlap-4 {
+    position: absolute;
+    width: 260px;
+    height: 167px;
+    top: 280px;
+    left: 124px;
+    background-color: #ffffff00;
+    border-radius: 90px;
+  }
+  
+  .pilih-akun .text-wrapper-3 {
+    position: absolute;
+    top: 134px;
+    left: 119px;
+    font-family: "Inter-ExtraBold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .pilih-akun .icon-user-graduate {
+    position: absolute;
+    width: 60px;
+    height: 57px;
+    top: 55px;
+    left: 120px;
+  }
+  
+  .pilih-akun .selamat-datang {
+    position: absolute;
+    top: 60px;
+    left: 560px;
+    font-family: "Marko One-Regular", Helvetica;
+    font-weight: 200;
+    color: #000000;
+    font-size: 35px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .pilih-akun .span {
+    font-family: "Marko One-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 30px;
+    letter-spacing: 0;
+  }
+  
+  .pilih-akun .text-wrapper-4 {
+    font-size: 24px;
+  }
+  
+  .pilih-akun .overlap-5 {
+    position: absolute;
+    width: 260px;
+    height: 205px;
+    top: 450px;
+    left: 101px;
+    border-radius: 90px;
+   
+  }
+  
+  .pilih-akun .rectangle {
+    position: absolute;
+    width: 292px;
+    height: 205px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff80;
+    border-radius: 90px;
+  }
+  
+  .pilih-akun .icon-chalkboard {
+    position: absolute;
+    width: 70px;
+    height: 60px;
+    top: 60px;
+    left: 100px;
+  }
+  
+  .pilih-akun .text-wrapper-5 {
+    position: absolute;
+    top: 140px;
+    left: 105px;
+    font-family: "Montserrat-ExtraBold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: none;
+  }
+  
+.pilih-akun .pindah1 {
+  color: #000000;
+  text-decoration: none;
+}
+
+
+  .pilih-akun .group {
+    position: absolute;
+    width: 291px;
+    height: 127px;
+    top: 11px;
+    left: 9px;
+  }
+  
+  .pilih-akun .text-wrapper-6 {
+    position: absolute;
+  width: 157px;
+  top: 46px;
+  left: 132px;
+  font-family: "Montserrat-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #000000;
+  font-size: 27px;
+  letter-spacing: 0;
+  line-height: normal;
+  }
+  
+  .pilih-akun .ellipse {
+    position: absolute;
+    width: 125px;
+    height: 127px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
